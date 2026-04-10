@@ -36,7 +36,7 @@ A browser-based music player that faithfully replicates the core Spotify Web Pla
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Spotify-clone.git
+git clone https://github.com/MAbdullahWaqar/Spotify-clone.git
 cd Spotify-clone
 
 # 2. Serve with Python (quick option)
@@ -131,5 +131,5 @@ Spotify®, its logo, and related assets are trademarks of Spotify AB. This proje
 
 ## Author
 
-**vanix056**  
-GitHub: [@vanix056](https://github.com/vanix056)
+**Muhammad Abdullah Waqar**  
+GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
